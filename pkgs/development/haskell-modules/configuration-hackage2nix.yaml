@@ -6864,6 +6864,7 @@ broken-packages:
   - legion-extra
   - leksah-server
   - lendingclub
+  - lens-core
   - lens-filesystem
   - lens-prelude
   - lens-text-encoding
@@ -7488,6 +7489,7 @@ broken-packages:
   - musicxml
   - musicxml2
   - mustache-haskell
+  - mutable
   - mutable-iter
   - MutationOrder
   - mute-unmute
@@ -9506,6 +9508,7 @@ broken-packages:
   - tamarin-prover-utils
   - tamper
   - Tape
+  - tar-bytestring
   - target
   - tart
   - task
@@ -9694,6 +9697,7 @@ broken-packages:
   - tip-haskell-frontend
   - tip-lib
   - titan
+  - titan-debug-yampa
   - Titim
   - tkhs
   - tkyprof
