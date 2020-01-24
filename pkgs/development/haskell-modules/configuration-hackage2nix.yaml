@@ -6613,6 +6613,7 @@ broken-packages:
   - json-pointer-hasql
   - json-python
   - json-schema
+  - json-syntax
   - json-togo
   - json-tokens
   - json-tools
@@ -9698,6 +9699,7 @@ broken-packages:
   - tip-lib
   - titan
   - titan-debug-yampa
+  - titan-record-yampa
   - Titim
   - tkhs
   - tkyprof
