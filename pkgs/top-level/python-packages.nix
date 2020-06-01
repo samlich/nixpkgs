@@ -935,6 +935,10 @@ in {
     mpi = pkgs.openmpi;
   };
 
+  openfermion = callPackage ../development/libraries/science/openfermion {};
+
+  pubchempy = callPackage ../development/libraries/science/pubchempy {};
+
   python-baseconv = callPackage ../development/python-modules/python-baseconv { };
 
   pycognito = callPackage ../development/python-modules/pycognito { };
